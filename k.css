@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+}
+
+/* Hide the input element */
+input[type="file"] {
+    display: none;
+}
